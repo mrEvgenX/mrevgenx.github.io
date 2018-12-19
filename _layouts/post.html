@@ -3,6 +3,19 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
+
+    <script type="text/javascript">(function() {
+      if (window.pluso)if (typeof window.pluso.start == "function") return;
+      if (window.ifpluso==undefined) { window.ifpluso = 1;
+        var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+        s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+        s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
+        var h=d[g]('body')[0];
+        h.appendChild(s);
+      }})();</script>
+    <div class="pluso" data-background="#ebebeb" data-options="big,square,line,horizontal,counter,theme=04" data-services="vkontakte,odnoklassniki,facebook,twitter"></div>
+
+
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
