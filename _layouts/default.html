@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="ru">
 
-  {%- include head.html -%}
+  {%- include head.html title=page.title share_img=page.share_img -%}
 
   <body>
     <div class="container">
       {%- include header.html -%}
-
+      <div class="row">
+        <div class="col">
+        </div>
+      </div>
       <div class="row">
         <div class="col">
           {{content}}
