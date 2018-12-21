@@ -3,6 +3,10 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
+    <div class="alert alert-light alert-dismissible">
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+      <a href="{{ site.baseurl }}{% post_url 2018-12-18-initial-post %}" class="alert-link" style="text-decoration: underline;">Приветственный пост!</a> Прочитайте, чего ожидать от данной площадки.
+    </div>
 
     <script type="text/javascript">(function() {
       if (window.pluso)if (typeof window.pluso.start == "function") return;
@@ -13,7 +17,10 @@ layout: default
         var h=d[g]('body')[0];
         h.appendChild(s);
       }})();</script>
-    <div class="pluso" data-background="#ebebeb" data-options="big,square,line,horizontal,counter,theme=04" data-services="vkontakte,odnoklassniki,facebook,twitter"></div>
+    <div
+      class="pluso" data-background="#ebebeb" data-options="big,square,line,horizontal,counter,theme=04"
+      data-services="vkontakte,odnoklassniki,facebook,twitter"
+      data-title="{{page.title | escape}}"></div>
 
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
