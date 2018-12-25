@@ -7,7 +7,7 @@ categories: translation
 excerpt: >-
   Не переживайте, все мы временами бываем непродуктивны. Однако, если вам свойственна половина привычек из перечисленных, может быть, стоит задуматься о смене образа жизни.
 ---
-![alt text](/images/unproductive-665x435.jpg "Logo Title Text 1")
+![unproductive habits](/images/unproductive-665x435.jpg "Unproductive habits")
 
 Материалы представляют собой перевод статьи ["11 Unproductive Habits You Want To Quit"](https://dariusforoux.com/unproductive-habits/). Далее "я" - это автор оригинальной статьи.
 
