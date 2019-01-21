@@ -15,3 +15,5 @@ excerpt: >-
 ![olivie mall offering](/images/olivie-mall-offering.jpg "Olivie mall offering")
 
 Заходите на [https://olivie-mall.github.io](https://olivie-mall.github.io/), играйте, делитесь результатами с друзьями.
+
+<section id="isso-thread" data-isso-id="olivie-mall-game"></section>

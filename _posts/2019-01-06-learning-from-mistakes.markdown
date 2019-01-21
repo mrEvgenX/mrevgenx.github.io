@@ -88,3 +88,5 @@ excerpt: >-
 И что, если вы и дальше будете совершать ошибки? Кому какое дело? Просто убедитесь, что вы хоть чему-нибудь с этого научитесь.
 
 [Картинка с сайта Unsplash.com, автор Marten Bjork](https://unsplash.com/@martenbjork?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge)
+
+<section id="isso-thread" data-isso-id="learning-from-mistakes"></section>

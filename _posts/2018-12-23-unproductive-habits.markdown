@@ -68,3 +68,5 @@ excerpt: >-
 Ведь я сейчас смог стать продуктивным человеком. Весьма неплохо для непродуктивного человека, неправда ли?
 
 [Картинка с сайта Freepik.com, автор Dooder](https://www.freepik.com/free-photos-vectors/business)
+
+<section id="isso-thread" data-isso-id="unproductive-habits"></section>
