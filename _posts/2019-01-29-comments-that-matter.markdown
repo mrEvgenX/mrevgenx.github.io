@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Оставить след"
-share_img: "https://mrevgenx.github.io/images/comments-that-matter.jpg"
+share_img: "https://mrevgenx.github.io/images/comments-that-matter.jpeg"
 date:   2019-01-29 21:00:00 +0700
 excerpt: >-
   Как я нашел способ обеспечить возможность делиться обратной связью.
