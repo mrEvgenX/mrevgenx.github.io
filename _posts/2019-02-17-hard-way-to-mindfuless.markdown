@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Осознанность - моё второе имя? Скорее нет, чем да."
-share_img: "https://mrevgenx.github.io/images/learning-from-mistakes.jpg"
+share_img: "https://mrevgenx.github.io/images/hard-way-to-mindfulness.jpg"
 date:   2019-02-17 14:00:00 +0700
 categories:
 excerpt: >-
